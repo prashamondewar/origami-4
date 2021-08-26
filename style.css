@@ -1,0 +1,21 @@
+h1{
+    color:blue;
+background-color: chartreuse;
+} 
+     *{
+background-color: chocolate;
+border: gray dotted;
+}
+.ht{
+display: flex;
+justify-content: space-between;
+background-color: blue;
+}
+.grid{
+    display:flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+     padding: 15px;
+     margin: 0px;
+     background-color: #AAAAAA;
+    } 
